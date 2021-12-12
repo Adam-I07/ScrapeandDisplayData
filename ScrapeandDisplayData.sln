@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapeandDisplayData", "ScrapeandDisplayData\ScrapeandDisplayData.csproj", "{222E0246-3271-4503-8262-3D108C44BCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{222E0246-3271-4503-8262-3D108C44BCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{222E0246-3271-4503-8262-3D108C44BCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{222E0246-3271-4503-8262-3D108C44BCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{222E0246-3271-4503-8262-3D108C44BCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95749F02-1D75-45A4-8589-CC4F52E99E75}
+	EndGlobalSection
+EndGlobal
